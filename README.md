@@ -1,2 +1,3 @@
-# learninglab_research
-A repository to equip you with everything you need to know to be a good researcher (for any computational field)
+# Learning Lab for Research
+
+All you need to know be a grounded empirical researcher!
