@@ -1,3 +1,3 @@
-# Learning Lab; Research (Work in Progress)
+# Learning Lab: Research (Work in Progress)
 
-All you need to know be a grounded empirical researcher!
+This repository contains notebooks for learning about different aspects of being an empirical researcher
